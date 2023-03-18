@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color: rgb(0, 15, 37);
+}
+.hero{
+    background-image: url(Imags/rocket-space-flight-minimal-art-amoled-rocket-launch-dark-3840x2160-8345.png);
+    height: 250px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-size: cover;
+}
+.container{
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+h1
+{
+    font-family: 'Merriweather', serif;
+    color:aquamarine;
+    text-align: center;
+}
+.profile{
+padding-top: 500px;
+padding-bottom: 50px;
+}
+.name
+{
+font-size: 30;
+color:gold;
+}
+.student
+{
+padding-top: 20px;
+font-size: 20px;
+color:brown;
+
+}
+.firstparagraph
+{
+  margin-top: 300px;  
+ 
+}
+h3
+{
+color: aqua;
+margin:16px 0px
+}
+.old-img
+{
+margin-left: 200px;
+
+}
